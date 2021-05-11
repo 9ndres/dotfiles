@@ -1,8 +1,6 @@
 ### Screenshots
 <p align="center">
 <img src="1.png" width="690" height="350" />
-
-
 <img src="2.png" width="690" height="350" />
 </p>
 ### Disclaimer: 
