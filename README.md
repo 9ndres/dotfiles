@@ -1,3 +1,8 @@
+### Screenshots
+
+![1](1.png)
+![2](2.png)
+
 ### Disclaimer: 
 My .vimrc config is heavily dependant in Pathogen pm; Cloning the whole repo is not desirable (because of manual reallocation) but understandable 
 instead proper pathogen loads are provided 
