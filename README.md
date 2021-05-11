@@ -28,3 +28,7 @@ Toggles NERDTree
 Opens gdb debugger in wide mode
 ```<F6>```
 Toggles working file structure
+
+### Screenshots
+![1](https://user-images.githubusercontent.com/60907795/117762637-c7589d80-b1e6-11eb-9129-f84fd31209ec.png)
+![2](https://user-images.githubusercontent.com/60907795/117762698-e22b1200-b1e6-11eb-918f-115ee1e26ad8.png)
