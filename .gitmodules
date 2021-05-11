@@ -13,3 +13,9 @@
 [submodule "vim-airline-themes"]
 	path = vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/preservim/tagbar.git
+[submodule "nord-vim"]
+	path = nord-vim
+	url = https://github.com/arcticicestudio/nord-vim.git
