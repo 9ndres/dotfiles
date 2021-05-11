@@ -22,7 +22,7 @@ let g:airline#extensions#tabline#enabled = 1
 let g:one_allow_italics = 1
 set background=dark
 "let g:airline_powerline_fonts = 1
-colorscheme nord 
+colorscheme Chrono 
 " --tab buffer--
 nnoremap  <silent>   <space><tab>  :if &modifiable && !&readonly && &modified <CR> :write<CR> :endif<CR>:bnext<CR>
 nnoremap  <silent> <s-tab>  :if &modifiable && !&readonly && &modified <CR> :write<CR> :endif<CR>:bprevious<CR>

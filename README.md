@@ -1,20 +1,23 @@
-### Screenshots
-![1](1.png)
-![2](2.png)
+### Instalation
 
-### Disclaimer: 
-My .vimrc config is heavily dependant in Pathogen pm; Cloning the whole repo is not desirable (because of manual reallocation) but understandable 
-instead proper pathogen loads are provided 
+## Option 1
+Clone this repo and 
+
+```
+$ git submodule init
+$ git submodule update
+```
+
+## Option 2
 
 ```
 $ git clone https://github.com/vim-airline/vim-airline ~/.vim/bundle/vim-airline
-$ git clone https://github.com/arcticicestudio/nord-vim.git ~/.vim
 $ git clone https://github.com/preservim/nerdtree.git ~/.vim/bundle/nerdtree
 $ git clone https://github.com/vim-airline/vim-airline-themes ~/.vim/bundle/vim-airline-themes
 
 ```
 
-Enabling ctags
+## Enabling ctags
 
 ```
 $ git clone https://github.com/preservim/tagbar.git ~/.vim/bundle/tagbar
@@ -27,7 +30,7 @@ $ git clone https://github.com/universal-ctags/ctags.git
 ```
     
 
-### Custom mapping
+## Custom mapping
 ```
 <F4>
 ```
