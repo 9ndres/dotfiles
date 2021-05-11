@@ -1,6 +1,6 @@
 ### Screenshots
-<img src="1.png" width="700" height="450" />
-<img src="2.png" width="700" height="450" />
+<img src="1.png" width="600" height="350" />
+<img src="2.png" width="600" height="350" />
 
 ### Disclaimer: 
 My .vimrc config is heavily dependant in Pathogen pm; Cloning the whole repo is not desirable (because of manual reallocation) but understandable 
