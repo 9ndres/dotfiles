@@ -23,14 +23,21 @@ $ git clone https://github.com/universal-ctags/ctags.git
     $ ./autogen.sh
     $ ./configure --prefix=/where/you/want # defaults to /usr/local
     $ make
-    $ make install # may require extra privileges depending on where to install```
+    $ make install # may require extra privileges depending on where to install
+```
     
 
 ### Custom mapping
-```<F4>```
+```
+<F4>
+```
 Toggles NERDTree
-```<F5>```
+```
+<F5>
+```
 Opens gdb debugger in wide mode
-```<F6>```
+```
+<F6>
+```
 Toggles working file structure
 
