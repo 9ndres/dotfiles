@@ -23,8 +23,9 @@ $ git clone https://github.com/universal-ctags/ctags.git
     $ ./autogen.sh
     $ ./configure --prefix=/where/you/want # defaults to /usr/local
     $ make
-    $ make install # may require extra privileges depending on where to install
-    ```
+    $ make install # may require extra privileges depending on where to install```
+    
+
 ### Custom mapping
 ```<F4>```
 Toggles NERDTree
