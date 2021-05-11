@@ -1,7 +1,6 @@
 ### Screenshots
-
-![1](1.png)
-![2](2.png)
+<img src="1.png" width="200" height="200" />
+<img src="2.png" width="200" height="200" />
 
 ### Disclaimer: 
 My .vimrc config is heavily dependant in Pathogen pm; Cloning the whole repo is not desirable (because of manual reallocation) but understandable 
