@@ -9,7 +9,7 @@ Assembly: Distinction between nasm and gas.
 Python, Haskell and CMake syntax improvements ([vim-polyglot sintax](https://github.com/sheerun/vim-polyglot))
 
 # Mapping
-GHCi can be directly accessed choring `<C-h> <C-h> `
+GHCi can be directly accessed choring `<C-t> <C-h> `
 
 gdb can be invoked in wide mode with ` <F5>`
 
