@@ -1,18 +1,3 @@
 [submodule "vim-pathogen"]
 	path = vim-pathogen
 	url = https://github.com/tpope/vim-pathogen.git
-[submodule "ctags"]
-	path = ctags
-	url = https://github.com/universal-ctags/ctags.git
-[submodule "nerdtree"]
-	path = nerdtree
-	url = https://github.com/preservim/nerdtree.git
-[submodule "vim-airline"]
-	path = vim-airline
-	url = https://github.com/vim-airline/vim-airline.git
-[submodule "vim-airline-themes"]
-	path = vim-airline-themes
-	url = https://github.com/vim-airline/vim-airline-themes.git
-[submodule "tagbar"]
-	path = tagbar
-	url = https://github.com/preservim/tagbar.git
