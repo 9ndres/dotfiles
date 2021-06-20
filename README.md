@@ -1,46 +1,17 @@
-### Instalation
+| Disclaimer          |
+|:---------------------------|
+| I realize that I did not want my Vim to be so overly bloated instead I prefer just the essential facilities, I removed all plugin dependencies and its respective submodules thus pathogen is no longer needed. |
 
-## Option 1
-Clone this repo and 
+# Extended syntax highlighting
+This configuration provides extended highlighting to the following languages:
+[C++](https://github.com/bfrg/vim-cpp-modern):  Modern syntax highlighting .
+Assembly: Distinction between nasm and gas.
+Python, Haskell and CMake syntax improvements ([vim-polyglot sintax](https://github.com/sheerun/vim-polyglot))
 
-```
-$ git submodule init
-$ git submodule update
-```
+# Mapping
+GHCi can be directly accessed choring `<C-h> <C-h> `
 
-## Option 2
+gdb can be invoked in wide mode with ` <F5>`
 
-```
-$ git clone https://github.com/vim-airline/vim-airline ~/.vim/bundle/vim-airline
-$ git clone https://github.com/preservim/nerdtree.git ~/.vim/bundle/nerdtree
-$ git clone https://github.com/vim-airline/vim-airline-themes ~/.vim/bundle/vim-airline-themes
-
-```
-
-## Enabling ctags
-
-```
-$ git clone https://github.com/preservim/tagbar.git ~/.vim/bundle/tagbar
-$ git clone https://github.com/universal-ctags/ctags.git
-    $ cd ctags
-    $ ./autogen.sh
-    $ ./configure --prefix=/where/you/want # defaults to /usr/local
-    $ make
-    $ make install # may require extra privileges depending on where to install
-```
-    
-
-## Custom mapping
-```
-<F4>
-```
-Toggles NERDTree
-```
-<F5>
-```
-Opens gdb debugger in wide mode
-```
-<F6>
-```
-Toggles working file structure
-
+# colors
+PaperColor
