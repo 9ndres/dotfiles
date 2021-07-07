@@ -13,5 +13,5 @@ GHCi can be directly accessed choring `<C-t> <C-h> `
 
 gdb can be invoked in wide mode with ` <F5>`
 
-# colors
+# Colors
 PaperColor
