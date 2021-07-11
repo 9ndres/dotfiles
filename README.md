@@ -1,6 +1,6 @@
 | Disclaimer          |
 |:---------------------------|
-| I realize that I did not want my Vim to be so overly bloated instead I prefer just the essential facilities, I removed all plugin dependencies and its respective submodules thus pathogen is no longer needed. |
+| I realize that I did not want my Vim to be so overly bloated instead I prefer just the essential facilities, I removed all plugin dependencies, and the plugin manager as well, thus it's respective submodules are no longer needed. |
 
 # Extended syntax highlighting
 This configuration provides extended highlighting to the following languages:
